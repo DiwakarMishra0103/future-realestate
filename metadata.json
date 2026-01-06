@@ -1,0 +1,7 @@
+{
+  "name": "Future Group Real Estate",
+  "description": "A premium real estate portal for Future Group, featuring project listings, achievement statistics, company history, and lead generation via WhatsApp and Email.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
